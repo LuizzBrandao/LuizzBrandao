@@ -2,7 +2,11 @@
 
 **`Software Developer`**
 
-Me chamo Luiz Felipe Brandão, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Poliedro e, atualmente, estou cursando Ciência da Computação na UNIMAR.
+Tenho 18 anos, sou de São Paulo e terminei o ensino médio no Colégio Poliedro. Hoje, estou cursando Ciência da Computação na UNIMAR.
+
+Desde pequeno, sempre fui muito interessado por jogos e sempre quis saber como as coisas funcionavam por trás deles. Minha relação com a tecnologia começou de forma bem simples, jogando Minecraft. Comecei a mexer nos arquivos do jogo, testando texturas e até brincando com o bloco de comandos. Isso despertou minha curiosidade pela programação e foi o que me motivou a aprender mais sobre o assunto.
+
+Hoje, sei programar em Python, C#, HTML, CSS e JavaScript, e estou sempre buscando aprender mais com cada novo projeto. Também estou investindo em cursos técnicos e trabalhando em alguns projetos pessoais, onde uso JavaScript e Python para programar funcionalidades, CSS para dar o visual e Bootstrap para deixar o design responsivo.
 
 <p align="left">
     <a href="https://github.com/LuizzBrandao?tab=repositories&sort=stargazers">
