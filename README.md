@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Tenho 19 anos, sou de TupãSão Paulo e terminei o ensino médio no Colégio Poliedro. Hoje, estou cursando Ciência da Computação na UNIMAR.
+Tenho 19 anos, sou de Tupã - São Paulo e terminei o ensino médio no Colégio Poliedro. Hoje, estou cursando Ciência da Computação na UNIMAR.
 
 Atualmente, possuo conhecimentos em Python, C#, HTML, CSS e JavaScript, e busco constantemente melhorar.
 
