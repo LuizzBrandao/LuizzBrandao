@@ -2,11 +2,9 @@
 
 **`Software Developer`**
 
-Tenho 19 anos, sou de São Paulo e terminei o ensino médio no Colégio Poliedro. Hoje, estou cursando Ciência da Computação na UNIMAR.
+Tenho 19 anos, sou de TupãSão Paulo e terminei o ensino médio no Colégio Poliedro. Hoje, estou cursando Ciência da Computação na UNIMAR.
 
-Desde pequeno, sempre fui muito interessado por jogos e sempre quis saber como as coisas funcionavam por trás deles. Minha relação com a tecnologia começou de forma bem simples, jogando Minecraft. Comecei a mexer nos arquivos do jogo, testando texturas e até brincando com o bloco de comandos. Isso despertou minha curiosidade pela programação e foi o que me motivou a aprender mais sobre o assunto.
-
-Atualmente, possuo conhecimentos em Python, C#, HTML, CSS e JavaScript, e busco constantemente expandir minhas habilidades por meio de novos projetos.
+Atualmente, possuo conhecimentos em Python, C#, HTML, CSS e JavaScript, e busco constantemente melhorar.
 
 ### 🤖 Linguagens e Tecnologias
 
